@@ -1,0 +1,162 @@
+1. Page de garde
+
+Titre : Rupture du barrage de Brumadinho (2019) : un aléa technologique majeur
+
+Cours, professeur, noms, date
+
+
+
+---
+
+2. Introduction
+
+Définition aléa technologique : danger lié à une activité humaine pouvant causer des dommages majeurs.
+
+Exemple : rupture d’un barrage de résidus miniers à Brumadinho, Brésil, 25 janvier 2019.
+
+
+
+---
+
+3. Fiche d’identité (tableau synthétique)
+
+Événement	Rupture du barrage de résidus (Dam B1) – Brumadinho
+
+Date	25 janvier 2019
+Lieu	Mine Córrego do Feijão, Brumadinho, Minas Gerais, Brésil
+Opérateur	Vale S.A.
+Volume de boues déversées	~11–12 millions m³
+Victimes	Environ 270 morts
+Cause technique	Liquéfaction statique des résidus (static liquefaction)
+Impacts principaux	Pertes humaines, destruction d’infrastructures et habitations, contamination des cours d’eau, impacts socio-économiques
+
+
+Sources : Wikipedia « Brumadinho dam disaster », Global Tailings Portal, rapports techniques post-accident.
+
+
+---
+
+4. Contexte et méthodes de construction
+
+Barrages de résidus : structures pour stocker les déchets miniers.
+
+Méthodes : upstream, downstream, centerline.
+
+Upstream plus risqué → moins stable, surtout en zone de forte pluviométrie ou sur résidus liquéfiables.
+
+Réglementation et inspection : insuffisantes avant l’accident.
+
+
+
+---
+
+5. Carte thématique (locale) + commentaire
+
+Carte locale
+
+Emprise du barrage et du dépôt de boue
+
+Cours d’eau impactés (Rio Paraopeba et affluents)
+
+Zones évacuées / infrastructures détruites
+
+
+Commentaire (≥10 lignes)
+
+La carte montre que l’onde de boue a suivi le relief et les cours d’eau, affectant directement les zones les plus proches du barrage, notamment la cantine et les installations de la mine où de nombreux salariés se trouvaient. Les villages et habitations situés en aval ont été submergés, provoquant la majorité des pertes humaines. Les infrastructures de transport et d’eau ont été fortement touchées, isolant certaines communautés et compliquant les secours. L’impact sur la biodiversité fluviale est également visible le long du Rio Paraopeba, avec une contamination qui s’étend sur plusieurs dizaines de kilomètres. La carte illustre clairement le rôle des corridors écologiques dans la propagation de la boue et la vulnérabilité des populations riveraines. L’absence de zones tampons et d’un plan d’évacuation efficace a aggravé les conséquences de la rupture. L’analyse met en évidence la densité de population et la proximité directe des installations industrielles comme facteurs clés de vulnérabilité.
+
+
+---
+
+6. Analyse des risques et vulnérabilité
+
+Exposition : salariés, population locale, infrastructures, agriculture, eau potable.
+
+Facteurs aggravants : proximité immédiate du barrage, absence de zones tampons, plan d’urgence incomplet, contrôle réglementaire insuffisant.
+
+Capacité de réponse : secours retardés par la rapidité de la catastrophe et absence d’alerte efficace.
+
+
+
+---
+
+7. Cause technique détaillée
+
+Liquéfaction statique : phénomène où des résidus miniers saturés d’eau perdent leur cohésion, provoquant l’effondrement du barrage.
+
+Confirmé par expertises post-accident.
+
+Facteurs contribuant : construction upstream, surcharge des dépôts, surveillance insuffisante.
+
+
+
+---
+
+8. Recommandations pratiques et politiques (≥15 lignes)
+
+Pour prévenir de futures catastrophes, plusieurs mesures doivent être appliquées :
+
+1. Élimination progressive des barrages construits en méthode upstream, considérés comme les plus instables.
+
+
+2. Surveillance indépendante et transparente : inspections régulières par des tiers certifiés, données accessibles au public et aux communautés locales.
+
+
+3. Plans d’alerte et d’évacuation obligatoires, intégrant la population et les salariés, avec exercices réguliers.
+
+
+4. Gouvernance renforcée : responsabilité des opérateurs, sanctions en cas de non-respect des normes, transparence dans les rapports techniques.
+
+
+5. Révision des normes techniques : conception basée sur les meilleures pratiques internationales, analyse des risques de liquéfaction, gestion de l’eau et du volume de résidus.
+
+
+6. Renforcement de la réglementation et des inspections par les autorités nationales (ANM, Brésil) et locales.
+
+
+7. Protection environnementale : surveillance des cours d’eau et programmes de restauration écologique après accident.
+
+
+8. Sensibilisation et participation locale : consultation des communautés pour l’implantation et le suivi des infrastructures minières.
+
+
+
+Ces mesures, issues du Global Industry Standard on Tailings Management, visent à réduire drastiquement le risque de rupture et à améliorer la résilience des populations et des écosystèmes exposés.
+
+
+---
+
+9. Conclusion
+
+La rupture du barrage de Brumadinho est un exemple emblématique d’aléa technologique : elle résulte directement d’une activité humaine et provoque des conséquences massives sur la vie humaine, l’environnement et l’économie locale. L’accident illustre la combinaison dangereuse entre choix techniques risqués (upstream), surveillance insuffisante et vulnérabilité des populations riveraines. Pour limiter de telles catastrophes à l’avenir, il est crucial d’améliorer la conception, la réglementation, la transparence et la gouvernance des installations minières, tout en intégrant pleinement la sécurité des populations et la protection de l’environnement dans les pratiques industrielles. La gestion proactive des risques technologiques apparaît ainsi indispensable pour prévenir des drames similaires à Brumadinho.
+
+
+---
+
+10. Bibliographie / sources clés
+
+« Brumadinho dam disaster », Wikipedia.
+
+Rotta LHS, et al., “The 2019 Brumadinho tailings dam collapse”, ScienceDirect.
+
+Global Tailings Portal — GRID-Arendal.
+
+Global Industry Standard on Tailings Management (Global Tailings Review).
+
+Human Rights Watch, rapports locaux et syndicaux sur Brumadinho.
+
+Articles presse : The Guardian, Reuters, Financial Times.
+
+
+
+---
+
+11. Annexes possibles
+
+Carte locale en haute résolution (PNG/PDF) : emprise du dépôt de boue et zones touchées.
+
+Carte régionale : cours d’eau impactés et zones évacuées.
+
+Tableau chronologie : accident, secours, sanctions, mesures post-accident.
+
+Fiche d’identité en première annexe.
