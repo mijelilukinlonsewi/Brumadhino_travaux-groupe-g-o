@@ -1,0 +1,92 @@
+Definition 
+
+
+Upstream dam: se dit d'un barrage à résidus en amont;
+
+
+Construction par rehaussement successif monté en amont, dont des couches sechés de résidus servent a la base.
+
+risque,cause
+
+Cette technique peut provoqué a terme une liquéfaction en boues du matériaux initial, se comporte alors comme un liquide
+
+soumis a la mécanique des fluides.
+
+
+Ce barrage précis, s'est effondré a cause d'une liquéfaction statique.
+
+
+liquéfaction statique: sous jacement [Liquéfaction; Statique]
+
+Liquéfaction: terme désignant la capacité d'une matière solide a devenir un liquide 
+
+ou assimilé (état spécifique de la matière (quasi critique, superfluide){abus de langage})
+
+Statique: Terme désignant ici l'absence de facteur extérieur pour cause a un phénomène hormis 
+
+un comportement connu et documenté sous-jacent prévisible et attendu.
+
+
+;Liquéfaction statique: Matériaux possédant la propriété sous certaine condition,
+
+de passé de l'état solide a liquide sans facteur extérieur extrinsèque pour cause initial.
+
+
+
+Tailing dam: Dispositif de résidus miniers Sous-jacement[tailing,dam]
+
+Tailing: Désigne les résidus miniers,
+
+les rejets du processus d'enrichissement du minnerai(dépend du minnerais).
+
+Dam: Le terme anglais servant a désigné les barrages de tout type.
+
+;Tailing dam: Type de barrage construit afin de contenir des résidus minnier issus du traitement des minerais.
+
+
+eau surnageante:Liquide au dessus des résidus saturés(souvent recyclée en usine en temps normal,ici pas)
+
+
+Upstream: En Amont, le réhaussement des couches itérés du barrage sont vers l'intérieur du bassin 
+
+et construite sur les résidus déja présent
+
+cela permet d'xploiter les résidus en tant que matériaux et terrain meuble,
+
+ sans nettoyer pour retrouver de sol stable et dur,
+
+ce qui revient bien meilleur marché de plus,
+
+étant de la matière déja possédées et déja privatisées a disposition en lieu et place.
+
+
+Downstream:En Avale, le réhaussement des couches itérés du barrage sont vers l'extérieur du bassin 
+
+et construite sur du sol du sol compacté et stable.
+
+Cette méthode est très honnèreuse, mais extend grandement la limite avant obsolescence.
+
+Centerline:Centrée, de simple réhaussement verticaux conventionnel,
+
+tel nos mur de brique monté les uns sur les autres.
+
+Un compromis durable sans la contribution de facteurs géologiques extérieurs.
+
+
+
+Pourquoi les type de dam sont important et un enjeux majeur ?
+
+
+Il existent des milliers de Tailings dams dans le monde, certains très vieux, des décennies, 
+
+l'enjeux de leurs durabilité et stabilité est majeur dans la sécurité environnementale et humaine,
+
+le cas échéant, comme celui de notre étude pour exemple modèle,représentatif,
+
+a causé des catastrophes humaines et écologiques dantèsques.
+
+
+
+Le barrage est nécessaire pour contenir les résidus en toute sécuritée,
+
+ces derniers étant sous forme de boue ou de liquide.
